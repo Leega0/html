@@ -8,7 +8,7 @@ img{ border:none;}
 /*部分开始-----------------------------------------------------*/
 /*banner*/
 .none{ display:none;}
-.banner{ min-width:980px;height:572px; position:relative; margin:0 auto; overflow:hidden; z-index:1; margin-top:-5px;}
+.banner{ min-width:980px;height:572px; position:relative; margin:0 auto; overflow:hidden; z-index:1; /*margin-top:-5px;*/}
 .banner_show{ width:100%; text-align:center; height:572px; overflow:hidden; position:relative;}
 .bannger_inbox{ position:absolute; left:50%; top:0;}
 
