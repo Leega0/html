@@ -65,6 +65,8 @@ color: #fff;}
 .content .sidebar { padding:0; float:right; width:284px;}
 .content .sidebar .gadget { margin:0; padding:16px 16px 24px 40px; overflow:hidden;}
 .content .sidebar .gadget h2{background:#016B9E; color:#fff; padding:5px;}
+.content .gadget { margin:0; padding:16px 16px 24px 40px; overflow:hidden;}
+.content .gadget h2{background:#016B9E; color:#fff; padding:5px;}
 ul.sb_menu, ul.ex_menu { margin:0; padding:0; list-style:none; color:#959595;}
 ul.sb_menu li, ul.ex_menu li { margin:0;}
 ul.sb_menu li { padding:4px 0 4px 0; width:220px;}
