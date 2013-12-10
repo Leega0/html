@@ -38,7 +38,7 @@ a { color:#44b2ef; text-decoration:underline;}
 .menu_nav ul li { margin:0; padding:0 8px 0 0; float:left; background:url(../images/menu.gif) no-repeat right center;}
 .menu_nav ul li a { display:block; margin:0; padding:12px 16px 16px; color:#fff; text-decoration:none; font-size:13px;transition:background 500ms ease-in 0ms, color 500ms ease-in 0ms;}
 .menu_nav ul li.active a, .menu_nav ul li a:hover { background-color:#453e35; color:#44b2ef;
-transition: background 250ms ease-in 0ms, color 250ms ease-in 0ms; font-size:15px; font-weight:bold;
+transition: background 250ms ease-in 0ms, color 250ms ease-in 0ms; font-weight:bold;
 }
 /*login-register*/
 .login-register{
@@ -144,3 +144,11 @@ margin-right: 6px;
 color: #7A7A7A;
 line-height: 22px;
 }
+.banner_ad{ width: 970px;height: 100px; overflow: hidden; margin: 0 auto; background: #ddd;}
+.in-content .mainbar{float: right;}
+.in-content .sidebar{float: left;}
+.in-content .sidebar .gadget { margin:0; padding:0; overflow:hidden;}
+.in-content .sidebar .gadget li a{ color: #44b2ef;}
+.in-content .sidebar .gadget .sb_menu li a:hover{ background: #44b2ef; color: #fff; text-decoration: none; padding: 2px 5px; border-radius: 3px;}
+.in-content .gadget { margin:0; padding:0; overflow:hidden;}
+.in-content ul.ex_menu li { padding:4px 0 8px 0; border:none; margin:3px 0;}
