@@ -149,6 +149,7 @@ line-height: 22px;
 .in-content .sidebar{float: left;}
 .in-content .sidebar .gadget { margin:0; padding:0; overflow:hidden;}
 .in-content .sidebar .gadget li a{ color: #44b2ef;}
+.in-content .sidebar .gadget .sb_menu .active a{background: #44b2ef; color: #fff; text-decoration: none; padding: 2px 5px; border-radius: 3px;}
 .in-content .sidebar .gadget .sb_menu li a:hover{ background: #44b2ef; color: #fff; text-decoration: none; padding: 2px 5px; border-radius: 3px;}
 .in-content .gadget { margin:0; padding:0; overflow:hidden;}
 .in-content ul.ex_menu li { padding:4px 0 8px 0; border:none; margin:3px 0;}
